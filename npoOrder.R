@@ -2,7 +2,7 @@
 ##### Test code for proposed diet order
 #####
 
-to do: 1) summarize diet order 2) fix input so only integers accepted
+#to do: 1) summarize diet order 2) fix input so only integers accepted
 ### goals of this workflow
 
   # every patient gets oral diet order option
@@ -224,8 +224,8 @@ if ( !is.null(edi) ) {
 
 ### report diet order
 
-aggregate options and show final diet order
+#aggregate options and show final diet order
 
-if (!is.null(odi)) {
+#if (!is.null(odi)) {
 
-}
+#}
