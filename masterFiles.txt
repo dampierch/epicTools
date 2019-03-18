@@ -1,0 +1,24 @@
+Record:	PAT_EPICLAB_ACCESSION [51110]
+Map Used:	UVA FACILITY MAP [1]
+Destination Workstation:	EPICLAB ORDER ENQUEUE AND ACCESSION [528]
+Report:	GENERIC ORDER COMPLETION REPORT [6900]
+
+Order_type = Pathology and Cytology Orders [1230100001]
+Procedure =	SURGICAL PATHOLOGY BIOPSY/OTHER [64569]
+Procedure_category =	PATHOLOGY/CYTOLOGY ORDERABLES [8]
+
+Procedure/Medication: Surgical Pathology Biopsy/Other [LAB1126]
+
+
+SER - Provider
+ORD - Orders
+OCC - Order Composer Configuration
+LPF - Preference List
+LSP - Preference List Sections
+LSD - EMR System Definitions
+LRR - Result Component
+LPR - Report
+LRC - Rules Conditions/Properties
+ERX - Medications
+
+LPP - Extension (This master file consists of extension records that contain the command to call a Caché routine)
