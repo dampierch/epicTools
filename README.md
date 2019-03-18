@@ -1,6 +1,6 @@
 # epicTools repository
 
-Chris Dampier  
+Christopher Dampier  
 UVa Surgery  
 
 ## Introduction
@@ -12,9 +12,9 @@ to integrate them, and I will develop more.
 
 ## Resources
 
-Resources for MUMPS:
+Resources for MUMPS:  
 [Kevin Okane's][okane] MUMPS page at the University of Northern Iowa  
-[Luis Ibanez's][ibanez] blog at Opensource.com
+[Luis Ibanez's][ibanez] blog at Opensource.com  
 [Intersystems's][intersystems] courses page
 
 [okane]: http://www.cs.uni.edu/~okane/index.html
