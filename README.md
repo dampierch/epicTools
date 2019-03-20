@@ -21,19 +21,29 @@ to integrate them, and I will develop more.
   * [Ed de Moel's annotations page](http://71.174.62.16/Demo/AnnoStd)
   * [VistA community page](http://www.hardhats.org/)
 
-* UVa CADRE (Computation and Data Resource Exchange)
-  * [Homepage](https://cadre.virginia.edu/)
+* UVa
+  * [CADRE homepage](https://cadre.virginia.edu/)
+  * [SOMRC homepage](https://somrc.virginia.edu/)
+  * [ARCS homepage](https://arcs.virginia.edu/rivanna)
+  * Health system data scientists
+    * Jonathan Michel
+    * Valentina Baljak
+    * Richard Salaway
+
+* Epic
+  * [Userweb](https://userweb.epic.com/)
 
 * ORIEN (Oncology Research Information Exchange Network)
   * [Homepage](http://oriencancer.org/)
   * [Avatar data portal](https://orienavatar.com/) (evidently the QlikView tool is useful)
-  * [David Martin](https://guides.hsl.virginia.edu/david-martin)
-  * [Joyce Miller](https://publicsearch.people.virginia.edu/person/jma8m)
-  * [Christopher Moskaluk](https://med.virginia.edu/faculty/faculty-listing/cam5p/)
+  * UVa contacts
+    * [David Martin](https://guides.hsl.virginia.edu/david-martin)
+    * [Joyce Miller](https://publicsearch.people.virginia.edu/person/jma8m)
+    * [Christopher Moskaluk](https://med.virginia.edu/faculty/faculty-listing/cam5p/)
 
 * AMIA (American Medical Informatics Association)
   * [Homepage](https://www.amia.org/)
-  * [Translation Bioinformatics page](https://www.amia.org/applications-informatics/translational-bioinformatics)
+  * [Translational Bioinformatics page](https://www.amia.org/applications-informatics/translational-bioinformatics)
   * [Genomics working group](https://www.amia.org/programs/working-groups/genomics-and-translational-bioinformatics)
   * [NGS in EHR presentation, 2014](https://www.amia.org/sites/default/files/files_2/AMIA-Webinar-on-CSER-EMR-WG-Paper-Tarczy-Hornoch-Slides-4162014.pdf)
 
