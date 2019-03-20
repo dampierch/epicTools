@@ -8,8 +8,8 @@ This is our current urine culture order:
 
 We will be introducing the following urine culture order soon:
 
-![new order][images/ucx-new.jpg]
+![new order](images/ucx-new.jpg)
 
-This is the same image as a ![png][images/ucx-test.png]
+This is the same image as a ![png](images/ucx-test.png)
 
-And once more as a ![tiff][images/ucx-test2.tiff]
+And once more as a ![tiff](images/ucx-test2.tiff)
