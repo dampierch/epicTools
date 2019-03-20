@@ -20,3 +20,12 @@ Resources for MUMPS:
 [okane]: http://www.cs.uni.edu/~okane/index.html
 [ibanez]: https://opensource.com/health/12/2/join-m-revolution
 [intersystems]: https://learning.intersystems.com/totara/coursecatalog/courses.php?ssoPass=1
+
+David Martin Research Data Services
+Clinical Data Research Specialist
+
+Orien Avatar
+
+orienavatar.com...QlikView...get avatar ids, ask joyce for raw data
+M2Gen
+cBioportal...orienavatar...to peruse what's available
