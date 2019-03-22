@@ -15,7 +15,7 @@ The electronic medical record (EHR) has become an integral part of healthcare de
   * Obtain Epic [Physician Builder Certification](https://training.epic.com/CourseCatalog/#/?LocationID=1&VersionID=1194&ViewID=train-tracks&RoleID=14&TrackID=57)
     * Epic Basic Course 5/21-5/24
     * Epic Advanced Course 7/16-7/18
-  * Improve and Standardize UVa Department of Surgery note templates
+  * Improve and standardize UVa Department of Surgery note templates
 
 ### Time commitment
 
