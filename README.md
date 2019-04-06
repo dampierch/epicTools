@@ -59,5 +59,5 @@ to integrate them, and I will develop more.
   * [Homepage](https://www.osehra.org/)
 
 * HSPC (Healthcare Services Platform Consortium)
-  * [Homepage](https://www.hspconsortium.org/
+  * [Homepage](https://www.hspconsortium.org/)
   * [Project Dashboard](https://healthservices.atlassian.net/secure/Dashboard.jspa)
