@@ -47,8 +47,17 @@ to integrate them, and I will develop more.
   * [Genomics working group](https://www.amia.org/programs/working-groups/genomics-and-translational-bioinformatics)
   * [NGS in EHR presentation, 2014](https://www.amia.org/sites/default/files/files_2/AMIA-Webinar-on-CSER-EMR-WG-Paper-Tarczy-Hornoch-Slides-4162014.pdf)
 
+* HIMSS (Healthcare Information and Management Systems Society)
+  * [Homepage](https://www.himss.org/)
+
+* HL7 (Health Level Seven International)
+  * [Homepage](http://www.hl7.org/)
+  * [FHIR (Fast Healthcare Interoperability Resources) Homepage](http://hl7.org/fhir/)
+  * [Clinical Decision Support](http://hl7.org/fhir/clinicalreasoning-cds-on-fhir.html)
+
 * OSEHRA (Open Source Electronic Health Record Alliance)
   * [Homepage](https://www.osehra.org/)
 
-* HIMSS (Healthcare Information and Management Systems Society)
-  * [Homepage](https://www.himss.org/)
+* HSPC (Healthcare Services Platform Consortium)
+  * [Homepage](https://www.hspconsortium.org/)
+  * [Project Dashboard](https://healthservices.atlassian.net/secure/Dashboard.jspa)
