@@ -46,6 +46,9 @@ to integrate them, and I will develop more.
   * [Translational Bioinformatics page](https://www.amia.org/applications-informatics/translational-bioinformatics)
   * [Genomics working group](https://www.amia.org/programs/working-groups/genomics-and-translational-bioinformatics)
   * [NGS in EHR presentation, 2014](https://www.amia.org/sites/default/files/files_2/AMIA-Webinar-on-CSER-EMR-WG-Paper-Tarczy-Hornoch-Slides-4162014.pdf)
+  * Clinical genomics at UVa: TruSight (in-house); why are Ambry, Invitae not sending XML/JSON
+  * c.p. nomenclature [reference](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1867422/)
+  * Invitae, Ambry (cancer, germline), GeneDx (peds)
 
 * HIMSS (Healthcare Information and Management Systems Society)
   * [Homepage](https://www.himss.org/)
