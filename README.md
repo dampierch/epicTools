@@ -32,6 +32,7 @@ to integrate them, and I will develop more.
 
 * Epic
   * [Userweb](https://userweb.epic.com/)
+  * [LogicStream](https://cds.logic-stream.net)
 
 * ORIEN (Oncology Research Information Exchange Network)
   * [Homepage](http://oriencancer.org/)
