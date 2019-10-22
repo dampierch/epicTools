@@ -43,3 +43,9 @@ The electronic medical record (EHR) has become an integral part of healthcare de
     * Natural language processing or rule-based tool development for automation of initial visits in the surgical clinic
   * Strengthen the open-source healthcare software development community to offer advanced bioinformatics solutions to more health systems nationally and globally
   * Obtain Epic Programmer Certifications
+
+## Miscellaneous projects
+
+  * extract diagnosis codes with sql, study similarity between resident and attending diagnosis
+  * extract diagnosis codes with sql, study similarity between ICU and primary team diagnosis
+  * extract diagnosis codes with sql, study similarity between consult and primary team diagnosis

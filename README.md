@@ -65,3 +65,20 @@ to integrate them, and I will develop more.
 * HSPC (Healthcare Services Platform Consortium)
   * [Homepage](https://www.hspconsortium.org/)
   * [Project Dashboard](https://healthservices.atlassian.net/secure/Dashboard.jspa)
+
+* Tatonetti Lab
+  * [Homepage](http://tatonettilab.org/)
+
+* spacy
+  * [Hompage](https://spacy.io/)
+  * Python module for natural language processing
+
+* PheKB
+  * [Homepage](https://phekb.org/)
+  * [PubMed abstract](https://www.ncbi.nlm.nih.gov/pubmed/27026615)
+  * rule sets for rule-based phenotype extraction
+
+* OHDSI (Observational Health Data Sciences and Informatics)
+  * [Homepage](https://www.ohdsi.org/)
+  * OMOP common data model
+  
