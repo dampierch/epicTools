@@ -9,6 +9,11 @@
 * See what image order looks like for nurse, radiology, and ordering provider
 * See what med order looks like for nurse, pharmacy, and ordering provider
 
+### Classroom
+* As limited as possible
+* Log-in, make a list, place an order, find a result, start a note
+* Reference materials in searchable repository
+
 ### Peer Training
 * Transfer of key templates/order sets/workflows to interns
 * Education chief as coordinator
