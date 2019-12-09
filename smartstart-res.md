@@ -24,9 +24,9 @@
 * Discovery: what to measure ...
 
 ### Issues
-* What about the ED people rotating on Gen Med, etc
-* Why not just give us the templates
-* Ongoing training throughout year vs throughout residency program
-* Pathology should keep their own program
-* Z: drive sets of templates in Pathology; a model for other programs
-* Solicit templates from residents
+* Concerns about how to onboard ED residents rotating on Gen Med, etc
+* Interest in on-going training throughout the year and throughout residency
+* Sample non-rhetorical feedback: Why not just give us the templates for all the departments we rotate in?
+* Suggestion: solicit templates from residents and aggregate them in centralized resource repository
+* Of note, Pathology appears to be unique in having a specialized and effective onboarding currently in place; Pathology should keep their current program and perhaps serve as a model for others
+* Pathology keeps a resident- and potentially attending-curated set of templates on the Z: drive; could be a model for other programs
