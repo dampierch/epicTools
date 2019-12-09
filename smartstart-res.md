@@ -22,3 +22,11 @@
 ### Additional goals
 * Curated digital resources/workflows
 * Discovery: what to measure ...
+
+### Issues
+* What about the ED people rotating on Gen Med, etc
+* Why not just give us the templates
+* Ongoing training throughout year vs throughout residency program
+* Pathology should keep their own program
+* Z: drive sets of templates in Pathology; a model for other programs
+* Solicit templates from residents
