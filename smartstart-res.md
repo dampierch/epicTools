@@ -28,5 +28,16 @@
 * Interest in on-going training throughout the year and throughout residency
 * Sample non-rhetorical feedback: Why not just give us the templates for all the departments we rotate in?
 * Suggestion: solicit templates from residents and aggregate them in centralized resource repository
-* Of note, Pathology appears to be unique in having a specialized and effective onboarding currently in place; Pathology should keep their current program and perhaps serve as a model for others
+* Of note, Pathology appears to be unique in having a specialized and effective on-boarding currently in place; Pathology should keep their current program and perhaps serve as a model for others
 * Pathology keeps a resident- and potentially attending-curated set of templates on the Z: drive; could be a model for other programs
+
+
+### 1/23/2020 Meeting
+* [ ] Recap meeting with residents
+* [ ] Plan for next year's resident on-boarding/Pilot for this year
+* [ ] Epic on-boarding as part of a training rotation ??
+
+* informatics elective ... for second year residents in june/july ... then they train people
+* take 8 hours of Epic training, give 6 to departments to show their own residents
+
+* focus groups guide what training includes
