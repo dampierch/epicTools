@@ -1,7 +1,6 @@
 # epicTools repository
 
-Christopher Dampier  
-UVa Surgery, PGY3  
+Christopher Dampier
 
 ## Introduction
 
@@ -58,6 +57,7 @@ to integrate them, and I will develop more.
   * [Homepage](http://www.hl7.org/)
   * [FHIR (Fast Healthcare Interoperability Resources) Homepage](http://hl7.org/fhir/)
   * [Clinical Decision Support](http://hl7.org/fhir/clinicalreasoning-cds-on-fhir.html)
+  * [SmartHealthIT](https://smarthealthit.org/)
 
 * OSEHRA (Open Source Electronic Health Record Alliance)
   * [Homepage](https://www.osehra.org/)
